@@ -1,5 +1,3 @@
-# Broken XML
-
 <img src="https://raw.githubusercontent.com/Guseyn/logos/master/broken-xml.svg?sanitize=true">
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.guseyn.broken-xml/broken-xml.svg)](https://maven-badges.herokuapp.com/maven-central/com.guseyn.broken-xml/broken-xml)
@@ -25,7 +23,7 @@ by any normal human being. But if you're lucky like myself, just read further...
 mvn clean package -Plocal
 ```
 
-Jar file is `/target/broken-xml-<version>.jar`.
+Jar file is `target/broken-xml-<version>.jar`.
 
 Or you can just install last version of jar file in the [**releases**](https://github.com/Guseyn/broken-xml/releases) section.
 
